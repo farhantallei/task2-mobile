@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_studio"
+            android:title="🏠 Sewa Studio" />
+
+        <item
+            android:id="@+id/nav_alat"
+            android:title="🎸 Sewa Alat" />
+
+        <item
+            android:id="@+id/nav_history"
+            android:title="📜 Riwayat" />
+
+    </group>
+
+</menu>
