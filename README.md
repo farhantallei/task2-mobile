@@ -7,7 +7,7 @@
 
 # Use Case Diagram
 
-<img width="668" height="1009" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/c965840c-f5d7-47c7-87db-0b1dc13a3014" />
+<img width="670" height="1011" alt="Untitled Diagram drawio (1)" src="https://github.com/user-attachments/assets/7a982d28-bf16-4fcf-84d1-d34e83f4f0c9" />
 
 # Demo
 <img width="307" height="677" alt="Screenshot 2026-06-04 215750" src="https://github.com/user-attachments/assets/37aac95e-eb58-4885-a5b2-901fffe6e6f8" />
