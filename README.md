@@ -1,14 +1,97 @@
-# Kelompok 6 
-- Adrian Zidan Ramadhan - 24552011224
-- Hafid Aliyanto - 24552011007
-- Muhamad Fadillah Suhada - 24552011018
-- Muhammad Ramdan - 24552011065
-- Farhan Pradana Tallei - 24552012004
+# RAFH Studio
 
-# Use Case Diagram
+RAFH Studio adalah aplikasi Android untuk melakukan penyewaan studio musik dan alat musik. Pengguna dapat mencari dan memilih studio, menambahkan alat musik ke keranjang, menentukan tanggal serta durasi sewa, melihat total biaya, melakukan checkout, dan melihat riwayat penyewaan.
 
-<img width="670" height="1011" alt="Untitled Diagram drawio (1)" src="https://github.com/user-attachments/assets/7a982d28-bf16-4fcf-84d1-d34e83f4f0c9" />
+Aplikasi dibuat menggunakan Kotlin dan XML, dengan SQLite sebagai penyimpanan data lokal. RAFH Studio juga memiliki pemeriksaan stok alat dan validasi jadwal untuk mencegah penyewaan studio pada waktu yang sama.
 
-# Demo
-<img width="307" height="677" alt="Screenshot 2026-06-04 215750" src="https://github.com/user-attachments/assets/37aac95e-eb58-4885-a5b2-901fffe6e6f8" />
+## Use Case Diagram
 
+<img src="https://github.com/user-attachments/assets/7a982d28-bf16-4fcf-84d1-d34e83f4f0c9" alt="Use Case Diagram RAFH Studio" width="700">
+
+## Anggota Kelompok
+
+| No. | Nama | NPM | Peran |
+|---:|---|---|---|
+| 1 | Adrian Zidan Ramadhan | 24552011224 | Pengembangan data dan tampilan alat musik, CardAdapter, aset, serta efek suara |
+| 2 | Hafid Aliyanto | 24552011007 | Pengembangan keranjang, CartAdapter, CartManager, dan proses checkout |
+| 3 | Muhamad Fadillah Suhada | 24552011018 | Pengembangan halaman dan RecyclerView riwayat penyewaan |
+| 4 | Muhammad Ramdan | 24552011065 | Pengembangan model studio dan booking serta database SQLite |
+| 5 | Farhan Pradana Tallei | 24552012004 | Pengembangan halaman utama, navigasi, konfigurasi project, dan integrasi fitur |
+
+## Video Penjelasan
+
+[Tonton video penjelasan RAFH Studio](https://youtube.com)
+
+## Screenshot Aplikasi
+
+### Menu Studio
+
+<img src="https://github.com/user-attachments/assets/37aac95e-eb58-4885-a5b2-901fffe6e6f8" alt="Halaman menu studio RAFH Studio" width="300">
+
+### Keranjang dan Jadwal Penyewaan
+
+> **TODO:** Screenshot halaman keranjang
+
+![Halaman keranjang dan jadwal penyewaan](docs/screenshots/keranjang.png)
+
+### Riwayat Penyewaan
+
+> **TODO:** Screenshot halaman riwayat
+
+![Halaman riwayat penyewaan](docs/screenshots/riwayat.png)
+
+## Fitur Utama
+
+- Daftar dan pencarian studio musik.
+- Daftar dan pencarian alat musik.
+- Pemeriksaan ketersediaan stok alat.
+- Keranjang penyewaan.
+- Pemilihan tanggal, jam mulai, dan durasi sewa.
+- Perhitungan total biaya secara otomatis.
+- Validasi jadwal untuk mencegah penyewaan studio yang bentrok.
+- Penyimpanan transaksi menggunakan SQLite.
+- Riwayat penyewaan.
+
+## Cara Menjalankan Project
+
+### Prasyarat
+
+- Android Studio.
+- JDK 11 atau versi yang kompatibel.
+- Android SDK 36.
+- Emulator atau perangkat Android dengan minimal Android 11/API 30.
+
+### Clone dan Jalankan melalui Android Studio
+
+1. Clone repository:
+
+   ```bash
+   git clone https://github.com/farhantallei/task2-mobile.git
+   ```
+
+2. Masuk ke direktori project:
+
+   ```bash
+   cd task2-mobile
+   ```
+
+3. Buka direktori tersebut melalui Android Studio.
+4. Tunggu proses Gradle Sync dan pengunduhan dependency selesai.
+5. Pilih emulator atau hubungkan perangkat Android yang sudah mengaktifkan USB debugging.
+6. Tekan **Run** atau gunakan pintasan `Shift + F10`.
+
+### Menjalankan melalui Terminal
+
+Pada macOS atau Linux:
+
+```bash
+./gradlew installDebug
+```
+
+Pada Windows:
+
+```powershell
+gradlew.bat installDebug
+```
+
+Pastikan emulator sedang aktif atau perangkat Android sudah terhubung sebelum menjalankan perintah tersebut.
