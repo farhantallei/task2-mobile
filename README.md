@@ -20,7 +20,9 @@ Aplikasi dibuat menggunakan Kotlin dan XML, dengan SQLite sebagai penyimpanan da
 
 ## Video Penjelasan
 
-[Tonton video penjelasan RAFH Studio](https://youtube.com)
+[![Tonton video penjelasan RAFH Studio](https://img.youtube.com/vi/rVvtkZUrYx8/0.jpg)](https://youtu.be/rVvtkZUrYx8)
+
+[Tonton video penjelasan RAFH Studio](https://www.youtube.com/watch?v=rVvtkZUrYx8)
 
 ## Screenshot Aplikasi
 
