@@ -28,7 +28,9 @@ Aplikasi dibuat menggunakan Kotlin dan XML, dengan SQLite sebagai penyimpanan da
 
 ### Menu Studio
 
-<img src="https://github.com/user-attachments/assets/37aac95e-eb58-4885-a5b2-901fffe6e6f8" alt="Halaman menu studio RAFH Studio" width="300">
+<img width="575" height="1280" alt="WhatsApp Image 2026-07-07 at 00 39 48" src="https://github.com/user-attachments/assets/6b7629e2-2eec-400d-9915-c8ab1cf0d267" /> <img width="575" height="1280" alt="WhatsApp Image 2026-07-07 at 00 39 48 (1)" src="https://github.com/user-attachments/assets/91dea9c4-52d8-4111-bc7a-a22bbddfc46f" />
+
+
 
 ### Keranjang dan Jadwal Penyewaan
 
