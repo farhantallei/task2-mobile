@@ -37,7 +37,8 @@ Aplikasi dibuat menggunakan Kotlin dan XML, dengan SQLite sebagai penyimpanan da
 
 ### Riwayat Penyewaan
 
-<img width="575" height="1280" alt="WhatsApp Image 2026-07-07 at 00 29 28" src="https://github.com/user-attachments/assets/bbaf0657-19f3-4fbe-aebd-d04e307620a2" />
+<img width="1220" height="2712" alt="Screenshot_2026-07-07-00-30-49-218_com example tugas2mobile jpg" src="https://github.com/user-attachments/assets/1fddc683-4514-4cdc-95be-0ac5fbe26971" />
+
 
 
 ## Fitur Utama
