@@ -28,7 +28,11 @@ Aplikasi dibuat menggunakan Kotlin dan XML, dengan SQLite sebagai penyimpanan da
 
 ### Menu Studio
 
-<img width="575" height="1280" alt="WhatsApp Image 2026-07-07 at 00 39 48" src="https://github.com/user-attachments/assets/6b7629e2-2eec-400d-9915-c8ab1cf0d267" /> <img width="575" height="1280" alt="WhatsApp Image 2026-07-07 at 00 39 48 (1)" src="https://github.com/user-attachments/assets/91dea9c4-52d8-4111-bc7a-a22bbddfc46f" />
+<p>
+  <img alt="WhatsApp Image 2026-07-07 at 00 39 48" src="https://github.com/user-attachments/assets/6b7629e2-2eec-400d-9915-c8ab1cf0d267" width="300" />
+  <img alt="WhatsApp Image 2026-07-07 at 00 39 48 (1)" src="https://github.com/user-attachments/assets/91dea9c4-52d8-4111-bc7a-a22bbddfc46f" width="300" />
+</p>
+
 
 
 
