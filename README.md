@@ -32,15 +32,13 @@ Aplikasi dibuat menggunakan Kotlin dan XML, dengan SQLite sebagai penyimpanan da
 
 ### Keranjang dan Jadwal Penyewaan
 
-> **TODO:** Screenshot halaman keranjang
+<img width="575" height="1280" alt="WhatsApp Image 2026-07-07 at 00 29 28" src="https://github.com/user-attachments/assets/a7d20808-456b-4748-8e2f-6af715a2d9b9" />
 
-![Halaman keranjang dan jadwal penyewaan](docs/screenshots/keranjang.png)
 
 ### Riwayat Penyewaan
 
-> **TODO:** Screenshot halaman riwayat
+<img width="575" height="1280" alt="WhatsApp Image 2026-07-07 at 00 29 28" src="https://github.com/user-attachments/assets/bbaf0657-19f3-4fbe-aebd-d04e307620a2" />
 
-![Halaman riwayat penyewaan](docs/screenshots/riwayat.png)
 
 ## Fitur Utama
 
