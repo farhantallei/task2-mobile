@@ -32,12 +32,12 @@ Aplikasi dibuat menggunakan Kotlin dan XML, dengan SQLite sebagai penyimpanan da
 
 ### Keranjang dan Jadwal Penyewaan
 
-<img width="575" height="1280" alt="WhatsApp Image 2026-07-07 at 00 29 28" src="https://github.com/user-attachments/assets/a7d20808-456b-4748-8e2f-6af715a2d9b9" width="50%" />
+<img alt="WhatsApp Image 2026-07-07 at 00 29 28" src="https://github.com/user-attachments/assets/a7d20808-456b-4748-8e2f-6af715a2d9b9" width="300" />
 
 
 ### Riwayat Penyewaan
 
-<img width="1220" height="2712" alt="Screenshot_2026-07-07-00-30-49-218_com example tugas2mobile jpg" src="https://github.com/user-attachments/assets/1fddc683-4514-4cdc-95be-0ac5fbe26971" width="300" />
+<img  alt="Screenshot_2026-07-07-00-30-49-218_com example tugas2mobile jpg" src="https://github.com/user-attachments/assets/1fddc683-4514-4cdc-95be-0ac5fbe26971" width="300" />
 
 
 
